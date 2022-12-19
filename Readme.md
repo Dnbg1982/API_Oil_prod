@@ -13,13 +13,20 @@ Datasets used are the same in Kaggle Competition about Oil Production. Data was 
 APP BREAKDOWN
 -------------------------------------------------------------------------------------------------------------------------------
 Content
+
 ![image](https://user-images.githubusercontent.com/100526221/208527060-c9947925-c867-4bcf-83d9-681f0926cb30.png)
 
+
 Tables
+
 ![image](https://user-images.githubusercontent.com/100526221/208527463-51384f9f-c142-4eff-8c5d-37cdced3c0fd.png)
 
+
 Plots
+
 ![image](https://user-images.githubusercontent.com/100526221/208527562-47133499-0c6e-42c8-9390-e3116cc9e946.png)
 
+
 Forecasting
+
 ![image](https://user-images.githubusercontent.com/100526221/208527767-5ba97d38-843a-4a4e-8d1b-3abcc7b7a6d9.png)
